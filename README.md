@@ -1,10 +1,9 @@
 ## Hi, I'm Alex 👋
 
-### alexxie9667@gmail.com
-
 # About Me:
 - Currently a senior at NYU studying computer science and data science<br>
 - Prev at Amazon, Fortinet!
+- Feel free to reach out alexxie9667@gmail.com
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexanderxie04">
