@@ -1,6 +1,6 @@
 ## Hi, I'm Alex 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axie22)](https://github.com/axie22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axie22&cache_seconds=1)](https://github.com/axie22/github-readme-stats&cache_seconds=1)
 
 # About Me:
 - Currently a senior at NYU studying computer science and data science<br>
