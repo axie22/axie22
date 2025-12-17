@@ -1,4 +1,4 @@
-## Hi, I'm Alex 👋
+## Hi, I'm Alex
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axie22&show_icons=true" height="160"/>
