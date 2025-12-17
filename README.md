@@ -13,7 +13,5 @@
 - Reach me at **alexxie9667@gmail.com**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexanderxie04">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/alexanderxie04/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
