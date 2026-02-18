@@ -1,7 +1,5 @@
 ## Hi, I'm Alex
 
-![Stats](./profile/stats.svg)
-
 <p align="center">
   <img src="https://readmestats-cyan.vercel.app/api?username=axie22&show_icons=true" height="160"/>
   <img src="https://readmestats-cyan.vercel.app/api/top-langs/?username=axie22&layout=compact&cache_seconds=1" height="160"/>
