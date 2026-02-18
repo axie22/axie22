@@ -1,5 +1,7 @@
 ## Hi, I'm Alex
 
+![Stats](./profile/stats.svg)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axie22&show_icons=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axie22&layout=compact&cache_seconds=1" height="160"/>
@@ -8,6 +10,7 @@
 ---
 
 ### About Me
+
 - Senior at NYU, studying Computer Science & Data Science
 - Previously at **Amazon** and **Fortinet**
 - Reach me at **alexxie9667@gmail.com**
