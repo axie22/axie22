@@ -14,12 +14,12 @@ Software engineer interested in systems, applied ML, and building things that wo
 
 ### Projects
 
-| Project                                                | Description                                                   | Tech               |
-| ------------------------------------------------------ | ------------------------------------------------------------- | ------------------ |
-| **AV Research** _(in progress)_                        | Deep learning-based perception models for autonomous vehicles | Python · PyTorch   |
-| **[Orbit](https://github.com/axie22/orbit)**           | <!-- add description -->                                      | <!-- add stack --> |
-| **[Aura](https://github.com/axie22/aura)**             | <!-- add description -->                                      | <!-- add stack --> |
-| **[Chip-8 Emulator](https://github.com/axie22/chip8)** | Chip-8 interpreter with display, input, and sound             | C++                |
+| Project                                                | Description                                                   | Tech                |
+| ------------------------------------------------------ | ------------------------------------------------------------- | ------------------- |
+| **AV Research** _(in progress)_                        | Deep learning-based perception models for autonomous vehicles | Python · PyTorch    |
+| **[Orbit](https://github.com/axie22/orbit)**           | AI-enabled playground to practice technical interviews        | Livekit · VertexAI  |
+| **[Aura](https://github.com/axie22/aura)**             | Automated UI PR Walkthroughs                                  | Playwright · Gemini |
+| **[Chip-8 Emulator](https://github.com/axie22/chip8)** | Chip-8 interpreter with display, input, and sound             | C++                 |
 
 ---
 
